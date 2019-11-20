@@ -1,0 +1,17 @@
+{
+  "name": "koa2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "commit": "npx git-cz"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git-cz": "^3.3.0",
+    "koa": "^2.11.0",
+    "koa-router": "^7.4.0"
+  }
+}
